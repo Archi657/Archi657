@@ -3,7 +3,7 @@
 </p>
 
    <h2 align="center"> Linux administrator and Software Developer </h2>
-* 💻Blog : [hashnode](https://juliang.hashnode.dev) 
+
 
 <h3 align="left">Technologies</h3>
 <p align="left"> 
