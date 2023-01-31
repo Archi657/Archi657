@@ -1,8 +1,6 @@
-# print("Hello world, and welcome to my profile!") <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">
 <p align="center">
    <img  src="https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif"/>
 </p>
-
 
    <h2 align="center"> Linux administrator and Software Developer </h2>
 * 💻Blog : [hashnode](https://juliang.hashnode.dev) 
