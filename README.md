@@ -11,14 +11,14 @@ If you have a project that you think I would be a good fit for, or if you just w
 </samp>  </h4>
 <h3 align="center">Languages :</h3>
 <p align="center">
-	<img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48"> 
-	<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48"> 
-	<img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="48">
+	<img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="40"> 
+	<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="40"> 
+	<img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="40">
 </p>
 <h3 align="center">Learning :</h3>
 <p align="center">
-	<img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="48"> 
-	<img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48">
+	<img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="40"> 
+	<img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="40">
 </p>
 <h3 align="center">Technologies :</h3>
 <p align="center">
