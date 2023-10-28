@@ -4,14 +4,11 @@
 
    <h2 align="center">  C’est votre attitude, bien plus que votre aptitude, qui détermine votre altitude. </h2>
 
-   <h3 align="center"><samp> Hi everyone! My name is Julián Gomez, and I am a 💻 Software Developer by passion, currently working for Oracle. I specialize in backend development, systems administration, and I am starting to learn about Data Science, Artificial Intelligence and Computers Visualisation </samp>  </h3>
+   <h4 align="center"><samp> Hi everyone! My name is Julián Gomez, and I am a 💻 Software Developer by passion, currently working for Oracle. I specialize in Backend Development, Systems Administration, and I am starting to learn about Data Science, Artificial Intelligence and Computers Visualisation </samp>  </h4>
 
-<h3 align="center"><samp> 
-In my free time, I enjoy learning languages and exploring the latest trends in ☁️ technology. I am always looking for new challenges and opportunities to learn and grow as a developer.
- </samp>  </h3>
-<h3 align="center"><samp>
-If you have a project that you think I would be a good fit for, or if you just want to chat about tech, don't hesitate to reach out! I'm always happy to connect with new people and explore new ideas. ❤️ </samp></h3>
-</samp>  </h3>
+<h4 align="center"><samp>
+If you have a project that you think I would be a good fit for, or if you just want to chat about tech, don't hesitate to reach out! I'm always happy to connect with new people and explore new ideas. ❤️ </samp></h4>
+</samp>  </h4>
 <h3 align="center">Languages :</h3>
 <p align="center">
 	<img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48"> 
