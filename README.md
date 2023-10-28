@@ -2,11 +2,29 @@
    <img  src="https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif"/>
 </p>
 
-   <h2 align="center"> Linux administrator and Software Developer </h2>
+   <h2 align="center">  C’est votre attitude, bien plus que votre aptitude, qui détermine votre altitude. </h2>
 
+   <h4 align="center"><samp> Hi everyone! My name is Julián Gomez, and I am a 💻 Software Developer by passion, currently working for Oracle. I specialize in backend development, systems administration, and I am starting to learn about Data Science, Artificial Intelligence and Computers Visualisation </samp>  </h4>
 
-<h3 align="left">Frameworks and Tools:</h3>
-<p align="left">
+<h4 align="center"><samp> 
+In my free time, I enjoy learning languages and exploring the latest trends in ☁️ technology. I am always looking for new challenges and opportunities to learn and grow as a developer.
+ </samp>  </h4>
+<h4 align="center"><samp>
+If you have a project that you think I would be a good fit for, or if you just want to chat about tech, don't hesitate to reach out! I'm always happy to connect with new people and explore new ideas. ❤️ </samp></h4>
+</samp>  </h4>
+<h3 align="center">Languages :</h3>
+<p align="center">
+	<img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48"> 
+	<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48"> 
+	<img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="48">
+</p>
+<h3 align="center">Learning :</h3>
+<p align="center">
+	<img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="48"> 
+	<img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="48">
+</p>
+<h3 align="center">Technologies :</h3>
+<p align="center">
 	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a>
    	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
 	<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
@@ -20,8 +38,8 @@
 	<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" /> </a>	
 </p>
 
-<h3 align="left">AI/ML</h3>
-<p align="left">
+<h3 align="center">Learning</h3>
+<p align="center">
    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a>
    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /> </a>
    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
