@@ -2,9 +2,9 @@
    <img  src="https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif"/>
 </p>
 
-   <h2 align="center">  C’est votre attitude, bien plus que votre aptitude, qui détermine votre altitude. </h2>
+   <h2 align="center"> Hi everyone! My name is Julián </h2>
 
-   <h4 align="center"><samp> Hi everyone! My name is Julián Gomez, and I am a 💻 Software Developer by passion, currently working for Oracle. I specialize in Backend Development, Systems Administration, and I am starting to learn about Data Science, Artificial Intelligence and Computers Visualisation </samp>  </h4>
+   <h4 align="center"><samp> I am a 💻 Software Developer by passion, currently working for Oracle. I specialize in Backend Development, Systems Administration, and I am starting to learn about Data Science, Artificial Intelligence and Computers Visualisation </samp>  </h4>
 
 <h4 align="center"><samp>
 If you have a project that you think I would be a good fit for, or if you just want to chat about tech, don't hesitate to reach out! I'm always happy to connect with new people and explore new ideas. ❤️ </samp></h4>
