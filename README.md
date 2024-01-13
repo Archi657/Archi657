@@ -4,7 +4,7 @@
 
    <h2 align="left"> Hi everyone! My name is Julián </h2>
 
-   <h3 align="left"><samp> I am a 💻 Software Developer by passion, currently working for Oracle. I specialize in Backend Development, Systems Administration, and I am starting to learn about Data Science, Artificial Intelligence and Computers Visualisation for fun.</samp>  </h3>
+   <h3 align="left"><samp> I am a 💻 Software Developer by passion, currently employed at Oracle. My expertise lies in Backend Development and Systems Administration. Additionally, I am starting to learn Data Science, Artificial Intelligence and Computers Visualisation for enjoyment.</samp>  </h3>
 
 <h3 align="left"><samp>
 If you have a project that you think I would be a good fit for, or if you just want to chat about tech, don't hesitate to reach out! I'm always happy to connect with new people and explore new ideas. ❤️ </samp></h4>
