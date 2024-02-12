@@ -3,10 +3,6 @@
 </p>
 
    <h3 align="left">I am a 💻 Software Developer by passion, currently employed at Oracle. My expertise lies in Backend Development and Systems Administration. Additionally, I learn Algorithms, Low-level Programming, Data Science, Artificial Intelligence and Computers Visualisation for fun.</h3>
-
-<h3 align="left">
-If you have a project that you think I would be a good fit for, or if you just want to chat about tech, don't hesitate to reach out! I'm always happy to connect with new people and explore new ideas. ❤️ </samp></h4>
-</h3>
 <h3 align="left">Languages :</h3>
 <p align="left">
 	<img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="40"> 
