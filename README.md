@@ -1,8 +1,6 @@
 <p align="center">
    <img  src="https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif"/>
 </p>
-
-   <h3 align="left">I am a 💻 Software Developer by passion, currently employed at Oracle. My expertise lies in Backend Development and Systems Administration. Additionally, I learn Algorithms, Low-level Programming, Data Science, Artificial Intelligence and Computers Visualisation for fun.</h3>
 <h3 align="left">Languages :</h3>
 <p align="left">
 	<img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="40"> 
