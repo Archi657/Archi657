@@ -1,5 +1,6 @@
-<p align="center">
-   <img  src="https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif"/>
+<p align="left">
+   <img  src="https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif" width="60"/>
+	Currently working in ... (release soon)
 </p>
 <h3 align="left">Languages :</h3>
 <p align="left">
