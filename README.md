@@ -2,13 +2,6 @@
    <img  src="https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif" width="60"/>
 	Currently working in ... (release soon)
 </p>
-<h3 align="left">Languages :</h3>
-<p align="left">
-	<img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="40"> 
-	<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="40"> 
-	<img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" width="40">
-	<img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="40">
-</p>
 <h3 align="left">Technologies :</h3>
 <p align="left">
 	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a>
