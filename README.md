@@ -1,6 +1,6 @@
 <p align="left">
    <img  src="https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif" width="60"/>
-	Currently working in ... (release soon)
+	Currently working in application for dictations in multiple languages (release soon)
 </p>
 <h3 align="left">Technologies :</h3>
 <p align="left">
