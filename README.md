@@ -1,7 +1,12 @@
 <p align="left">
    <img  src="https://github.com/BStar098/softwareDevelopmentGif/blob/main/linux-computer.gif" width="60"/>
 	
-	Check parrotglot.cloud | learn : Russian, German, French, Spanish and English.
+Check my project	
+	
+    parrotglot.cloud 
+	
+learn : Russian, German, French, Spanish and English, through dictations.
+
 </p>
 <h3 align="left">Technologies :</h3>
 <p align="left">
